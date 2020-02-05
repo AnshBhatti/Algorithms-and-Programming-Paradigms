@@ -10,4 +10,6 @@ Note: As of now this repository contains an implementation of bottom-up dp. Will
 Implementations described below
 
 TabularDP.cpp
-- Implements bottom-up DP for the Wedding Problem Shopping problem taken from UVa Online Judge 11450
+- Implements bottom-up DP for the Wedding Shopping problem taken from UVa Online Judge 11450
+topdown.cpp
+- Implements top-down DP for the Wedding Shopping problem taken from UVa Online Judge 11450
