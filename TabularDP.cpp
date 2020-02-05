@@ -39,7 +39,7 @@ void recurse(int layer) {
 }
 
 int main() {
-	cin >> n >> budget;
+	cin >> budget >> n;
 	dp[0][budget] = true;
 	for (int i = 0; i < n; i++) {
 		cin >> n1;
