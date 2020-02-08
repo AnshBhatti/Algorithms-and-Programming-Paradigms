@@ -15,5 +15,6 @@ TabularDP.cpp
 
 topdown.cpp
 - Implements top-down DP for the Wedding Shopping problem taken from UVa Online Judge 11450
+
 Segment_Tree.cpp
 - Based on Range Minimum Query (RMQ), this program creates a segment tree (a heap of indexes with the minimum indexes). The user first needs to put the number of items in his/her array. Then he/she will put the contents of array, receiving the 2D array representation of the binary segment tree as output.
