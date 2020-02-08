@@ -23,7 +23,9 @@ void segment_tree(int i, int n1, int n2) {
 }
 
 int main() {
+	cout << "Number of elements in array: ";
 	cin >> n;
+	cout << "Type each element of the array one by one:\n";
 	fill_n(ar, 20000, -1); // Initializes all values to -1, so after the tree is created, -1 will show unused indexes
 	for (int i = 0; i < n; i++)
 		cin >> arr[i];
