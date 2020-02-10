@@ -8,6 +8,7 @@ This repository is planned to contain implementations/examples for the following
 6) Segment Tree (for range queries in a 2D array)
 7) Depth First Search
 8) Breadth First Search
+9) Traveling Salesman Problem (TSP) using Nearest Neighbor and Sorted Edges algorithms
 
 Note: As of now this repository contains an implementation of bottom-up dp. Will continue to add more as time goes on
 Implementations described below
