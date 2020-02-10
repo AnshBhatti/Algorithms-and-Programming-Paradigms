@@ -6,6 +6,8 @@ This repository is planned to contain implementations/examples for the following
 4) SSSP (Single Source Shortest Path) using Dijkstra's algorithm
 5) Minimum-cost Hamiltonian circuit (Ex: Traveling Salesman Problem) using sorted edges and nearest neighbor algorithms
 6) Segment Tree (for range queries in a 2D array)
+7) Depth First Search
+8) Breadth First Search
 
 Note: As of now this repository contains an implementation of bottom-up dp. Will continue to add more as time goes on
 Implementations described below
