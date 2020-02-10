@@ -21,3 +21,6 @@ topdown.cpp
 
 Segment_Tree.cpp
 - Purpose: Range Minimum Query (RMQ), this program creates a segment tree (a heap of indexes with the minimum indexes). The user first needs to put the number of items in his/her array. Then he/she will put the contents of array, receiving the 2D array representation of the binary segment tree as output. Benefit: Performs RMQ in O(log n) time.
+
+TSP.cpp
+- Implements nearest neighbor algorithm on a graph to solve the Traveling Salesman Problem (create a minimum-cost Hamiltonian graph)
