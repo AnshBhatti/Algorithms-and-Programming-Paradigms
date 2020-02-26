@@ -24,3 +24,9 @@ Segment_Tree.cpp
 
 TSP.cpp
 - Implements nearest neighbor algorithm on a graph to solve the Traveling Salesman Problem (create a minimum-cost Hamiltonian graph)
+
+DFS.cpp
+- Shows an example of the Depth First Search algorithm for graph traversal
+
+BFS.cpp
+- Shows an example of the Breadth First Search algorithm for graph traversal and SSSP on unweighted graphs
