@@ -5,7 +5,7 @@ This repository is planned to contain implementations/examples for the following
 3) Minimum-cost Spanning Tree using Prim's and Kruskal's algorithms
 4) SSSP (Single Source Shortest Path) using Dijkstra's algorithm
 5) Minimum-cost Hamiltonian circuit (Ex: Traveling Salesman Problem) using sorted edges and nearest neighbor algorithms
-6) Segment Tree (for range queries in a 2D array)
+6) Segment Tree (for RMQs in an array)
 7) Depth First Search
 8) Breadth First Search
 9) Traveling Salesman Problem (TSP) using Nearest Neighbor and Sorted Edges algorithms
