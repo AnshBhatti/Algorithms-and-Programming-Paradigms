@@ -39,4 +39,7 @@ prims.py
 - Implementation of Prim's algorithm, which makes a Minimum Spanning Tree on a weighted graph
 
 kruskals.py
-- Implementation of Kruskal's algorith, which makes a Minimum Spanning Tree on a weighted graph
+- Implementation of Kruskal's algorithm, which makes a Minimum Spanning Tree on a weighted graph
+
+dijkstras.py
+- Implementation of Dijkstra's algorithm, which solves SSSP (Single Source Shortest Paths)
