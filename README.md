@@ -1,15 +1,16 @@
 # Algorithms-and-Programming-Paradigms
 This repository is planned to contain implementations/examples for the following algorithms, programming paradigms, and data structures:
 1) Greedy algorithms
-2) Bottom-up and top-down dynamic programming
+2) Bottom-up and top-down dynamic programming (classical and non-classical included)
 3) Minimum-cost Spanning Tree using Prim's and Kruskal's algorithms
-4) SSSP (Single Source Shortest Path) using Dijkstra's algorithm
+4) SSSP (Single Source Shortest Paths) using Dijkstra's algorithm
 5) Minimum-cost Hamiltonian circuit (Ex: Traveling Salesman Problem) using sorted edges and nearest neighbor algorithms
 6) Segment Tree (for Range Minimum/Maximum Queries (RMQs) in a list)
 7) Fenwick Tree (for Range Sum Queries (RSQs) in a list)
 7) Depth First Search
 8) Breadth First Search
 9) Traveling Salesman Problem (TSP) using Nearest Neighbor and Sorted Edges algorithms
+10) APSP (All Pairs Shortest Paths) using Floyd-Warshall's algorithm
 
 Note: As of now this repository contains an implementation of bottom-up dp. Will continue to add more as time goes on
 Implementations described below
