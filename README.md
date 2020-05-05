@@ -44,3 +44,9 @@ kruskals.py
 
 dijkstras.py
 - Implementation of Dijkstra's algorithm, which solves SSSP (Single Source Shortest Paths)
+
+floyd_warshalls.py
+- Implementation of the Floyd Warshall's DP algorithm, which solves APSP (All Pairs Shortest Paths)
+
+graph_macro.py
+- Made to implement all of the graph functions described above (still under work)
