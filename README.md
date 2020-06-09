@@ -11,6 +11,8 @@ This repository is planned to contain implementations/examples for the following
 8) Breadth First Search
 9) Traveling Salesman Problem (TSP) using Nearest Neighbor and Sorted Edges algorithms
 10) APSP (All Pairs Shortest Paths) using Floyd-Warshall's DP solution
+11) Computational Geometry Concepts
+12) Knuth-Morris-Pratt Algorithm
 
 Note: As of now this repository contains an implementation of bottom-up dp. Will continue to add more as time goes on
 Implementations described below
@@ -50,3 +52,9 @@ floyd_warshalls.py
 
 graph_macro.py
 - Made to implement all of the graph functions described above (still under work)
+
+geometry.py
+- Implementation of a few basic computational geometry problems (currently includes the distance from a line to point and area & perimeter of a polygon)
+
+KMP.py
+- Implementation of the Knuth-Morris-Pratt algorithm which optimizes substring searching
